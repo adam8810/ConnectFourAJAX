@@ -1,0 +1,2 @@
+[29-Nov-2011 14:14:55] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/mvc_auth/application/views/scripts/index/welcome.phtml on line 10
+[29-Nov-2011 14:15:10] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/mvc_auth/application/views/scripts/index/login.phtml on line 10

@@ -1,0 +1,2 @@
+[21-Nov-2011 17:12:48] PHP Fatal error:  Class 'Zend_Controller_Action_Helper_Abstract' not found in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/Cloud/cloudexp/library/CloudExplorer/ResourceInjector.php on line 29
+[16-Dec-2011 12:31:02] PHP Fatal error:  Class 'Zend_Controller_Action_Helper_Abstract' not found in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/Cloud/cloudexp/library/CloudExplorer/ResourceInjector.php on line 29
