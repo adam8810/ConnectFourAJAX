@@ -1,1 +1,0 @@
-[29-Nov-2011 11:28:55] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/Cloud/cloudexp/application/views/scripts/queue/index.phtml on line 2

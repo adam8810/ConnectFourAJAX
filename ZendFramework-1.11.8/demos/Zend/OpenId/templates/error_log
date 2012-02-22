@@ -1,9 +1,0 @@
-[16-Nov-2011 12:42:08] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/identity.phtml on line 4
-[16-Nov-2011 13:45:15] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/login.phtml on line 26
-[16-Nov-2011 13:47:17] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/profile.phtml on line 7
-[16-Nov-2011 13:48:25] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/register.phtml on line 26
-[16-Nov-2011 13:49:34] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/registration_complete.phtml on line 8
-[16-Nov-2011 13:50:53] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/trust.phtml on line 7
-[16-Nov-2011 15:38:31] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/identity2.phtml on line 4
-[28-Nov-2011 21:43:11] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/profile.phtml on line 7
-[23-Jan-2012 10:06:58] PHP Fatal error:  Using $this when not in object context in /home/pma/public_html/dev.ambooth.com/p/connect/ZendFramework-1.11.8/demos/Zend/OpenId/templates/profile.phtml on line 7
